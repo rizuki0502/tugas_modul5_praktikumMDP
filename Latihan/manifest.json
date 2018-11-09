@@ -1,0 +1,30 @@
+{
+    "name": "Weather Kel5",
+    "short_name": "Weather Kel5",
+    "icons": [{
+      "src": "images/icons/nc-128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/nc-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/nc-152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/nc-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }, {
+        "src": "images/icons/nc-256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "#ffc107",
+    "background_color": "#ffc107"
+  }
+  
